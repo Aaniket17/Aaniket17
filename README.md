@@ -2,12 +2,12 @@
 <h3 align="center">Full Stack MERN Developer | Distributed Systems & Modern UI</h3>
 
 <p align="center">
-  <a href="https://aniketkumar17.vercel.app/">
+  <a href="https://aniketkumar17.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-aniketkumar17.vercel.app-6366f1?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
   </a>
 </p>
 
-<!-- Full-stack coding GIF -->
+<!-- Coding Animation GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Guy Coding Laptop" width="380" />
 </p>
@@ -19,7 +19,7 @@
 - 🌐 **Live Portfolio:** [aniketkumar17.vercel.app](https://aniketkumar17.vercel.app/)
 - 🔭 Currently building scalable MERN web apps & deep-diving into **DSA & System Design**
 - 💼 Hands-on Full Stack immersion at **Masai School**
-- 📄 Check out my experiences & credentials: [Resume Link](https://drive.google.com/file/d/1sRcDk_lLG-NQURc2-NTtoMczDwx2BI59/view?usp=sharing)
+- 📄 Check out my credentials: [Resume Link](https://drive.google.com/file/d/1sRcDk_lLG-NQURc2-NTtoMczDwx2BI59/view?usp=sharing)
 - 📫 Reach me directly at: **aniketkumar.2000.17@gmail.com**
 
 ---
@@ -86,7 +86,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45"/>
   </a>
 
-  <!-- Languages -->
+  <!-- Programming Languages -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
   </a>
@@ -97,7 +97,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   </a>
 
-  <!-- Tools -->
+  <!-- Dev Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
   </a>
@@ -114,12 +114,16 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaniket17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aniket's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaniket17&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Aaniket17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aniket's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Aaniket17&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaniket17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aaniket17&theme=tokyonight&no-frame=true&margin-w=4" alt="aaniket17 trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Aaniket17&theme=tokyonight&no-frame=true&margin-w=4" alt="Aaniket17 trophies" />
   </a>
 </p>
